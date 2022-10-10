@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eliorodr2104
 - 👀 I’m interested in Java/JavaScript/HTML/CSS/Python/C/C++
-- 🌱 I’m currently learning Java/HTML/CSS/C/Python
+- 🌱 I’m currently learning Java/HTML/CSS/C/Python/C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rodriguezeliomar088@gmail.com
 
