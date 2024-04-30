@@ -1,4 +1,4 @@
-## Hi there
+# Hi there
 
 👋 I'm a student at a technical institute specializing in Computer Science, currently based in Alessandria, Italy.
 
