@@ -1,5 +1,5 @@
 # About Me:
-Yo, I’m a CS student @ UniTo.  <br>I enjoy building mobile apps (Kotlin, Swift) using Jetpack Compose and SwiftUI, exploring backend & cloud, and diving into low-level programming with C and RISC-V Assembly. 
+Yo, I’m a CS student @ UniTo.  <br>I enjoy building mobile apps (Kotlin, Swift) using Jetpack Compose and SwiftUI, exploring backend & cloud, and diving into low-level programming with C and Assembly. 
 
 
 ## Tech Stack:
